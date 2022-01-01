@@ -29,6 +29,8 @@ Trophy
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/imharsh.18) - black logo
 
+![GitHub Repo size](https://img.shields.io/github/repo-size/HarshPanchal18/This-is-for-Fun?color=red&style=flat-square)
+
 Thank you so much ❤️!
 
 -->
