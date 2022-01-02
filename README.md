@@ -1,5 +1,3 @@
-### Hi there 👋
-## #define ME "A Coder"
 <!--
 **HarshPanchal18/HarshPanchal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 Trophy
 ![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=nord)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshPAnchal18&label=Profile%20views&color=0e75b6&style=flat" alt="HarshPanchal18" /> </p> 
 
 ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshPanchal18&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&hide_rank=false&custom_title=@HarshPanchal18-Github-stats)
 
@@ -34,8 +32,12 @@ Trophy
 Thank you so much ❤️!
 
 -->
+### Hi there 👋
+## #define ME "A Coder"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
+
 
 Connect with me: 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/thenameisharsh)
+
