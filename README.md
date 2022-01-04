@@ -29,6 +29,9 @@ Trophy
 
 ![GitHub Repo size](https://img.shields.io/github/repo-size/HarshPanchal18/This-is-for-Fun?color=red&style=flat-square)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn&logoColor=0088cc)](https://www.linkedin.com/in/harshpanchal18)
+
+
 Thank you so much ❤️!
 
 -->
@@ -40,4 +43,3 @@ Thank you so much ❤️!
 Connect with me: 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/thenameisharsh)
-
