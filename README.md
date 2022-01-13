@@ -54,6 +54,16 @@ Profile views: </br>
 &achievements.limit=0
 &config.timezone=Asia%2FYekaterinburg)
 
+<a href="https://profile.codersrank.io/user/harshpanchal18#Tech%20Skills">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HarshPanchal18&labels=true&legend=true&tooltip=true&max-labels=24&branding=false">
+</a>
+  
+<a href="https://profile.codersrank.io/user/harshpanchal18#Language%20overview">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HarshPanchal18&labels=true&legend=true&tooltip=true&max-labels=24&branding=false">
+</a>
+
+
+
 Thank you so much ❤️!
 
 -->
