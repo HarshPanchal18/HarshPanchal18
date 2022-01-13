@@ -69,7 +69,7 @@ Thank you so much ❤️!
 -->
 ### Hi there 👋
 ## #define ME "A Coder"
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
 
 
 Connect with me: 
@@ -77,4 +77,3 @@ Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/thenameisharsh)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn&logoColor=0088cc)](https://www.linkedin.com/in/harshpanchal18)
-
