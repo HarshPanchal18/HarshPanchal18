@@ -16,7 +16,6 @@ Trophy
 ![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=nord)
 
 
-
 ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshPanchal18&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&hide_rank=false&custom_title=@HarshPanchal18-Github-stats)
 
 [![Telegram Badge](https://img.shields.io/badge/-thenameisharsh-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/thenameisharsh)](https://t.me/thenameisharsh)
@@ -67,8 +66,11 @@ Profile views: </br>
 Thank you so much ❤️!
 
 -->
+
 ### Hi there 👋
+
 ## #define ME "A Coder"
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
 
 
