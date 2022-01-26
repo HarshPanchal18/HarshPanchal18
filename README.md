@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 Trophy
 ![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=nord)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
+
 
 ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshPanchal18&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&hide_rank=false&custom_title=@HarshPanchal18-Github-stats)
 
@@ -73,7 +75,7 @@ Thank you so much ❤️!
 
 ## #define ME "A Coder"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&layout=compact&border_radius=15)](https://github.com/HarshPanchal18/github-readme-stats)
 
 
 Connect with me: 
