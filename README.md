@@ -61,6 +61,8 @@ Profile views: </br>
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HarshPanchal18&labels=true&legend=true&tooltip=true&max-labels=24&branding=false">
 </a>
 
+Graph
+​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=HarshPanchal18&theme=github)
 
 
 Thank you so much ❤️!
