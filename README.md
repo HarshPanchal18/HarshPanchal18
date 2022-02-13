@@ -68,6 +68,11 @@ Graph
 
 - ✉️  **Email:** To get my email paste: `aGFyc2hoaGgxODAzQGdtYWlsLmNvbQ==` [HERE](https://www.base64decode.org/) or [HERE](https://emn178.github.io/online-tools/base64_decode.html). I've Base 64 encoded my email address to keep it safe from email scrapping bots.
 
+Dinosaur Game of Chrome
+<div align="center">
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+  </div>
+
 
 Thank you so much ❤️!
 
@@ -85,5 +90,4 @@ Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/thenameisharsh)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn&logoColor=0088cc)](https://www.linkedin.com/in/harshpanchal18)
-
 
