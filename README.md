@@ -79,11 +79,33 @@ Dinosaur Game of Chrome
   See there are many transparent pixels! Now why waste the (R, G, B) values of those pixels? Store the data there!
   
 </details>
-
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Jaysmito101/jmnet?style=for-the-badge">
  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Jaysmito101/ogl?style=for-the-badge">
  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Jaysmito101/ogl?style=for-the-badge">
 
 ![Views](https://dynamic-badges.maxalpha.repl.co/views?id=HarshPanchal18.DataStructure&style=for-the-badge&color=blue)
+
+Stars
+<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=jmnet&id=1"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
+<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=jmnet&id=2"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
+<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=jmnet&id=3"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
+<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=jmnet&id=4"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
+<a href="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=jmnet&id=5"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
+
+## Here is a Random Programming Meme for you!
+
+ <a href="https://github.com/Jaysmito101/dynamic-badges"> 
+<img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/>
+</a>
+Refresh for a new meme!
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%3BI%20am%20Jaysmito%3BMaking%20Game%20Engines%20and%203D%20Stuff&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+
+Age:
+<p align="center">
+<img src="https://dynamic-badges.maxalpha.repl.co/age/12/08/2004" />
+</p>
 
 Thank you so much ❤️!
 
