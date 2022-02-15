@@ -83,6 +83,7 @@ Dinosaur Game of Chrome
  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Jaysmito101/ogl?style=for-the-badge">
  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Jaysmito101/ogl?style=for-the-badge">
 
+![Views](https://dynamic-badges.maxalpha.repl.co/views?id=HarshPanchal18.DataStructure&style=for-the-badge&color=blue)
 
 Thank you so much ❤️!
 
