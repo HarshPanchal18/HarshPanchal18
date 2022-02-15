@@ -80,6 +80,10 @@ Dinosaur Game of Chrome
   
 </details>
 
+ <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Jaysmito101/ogl?style=for-the-badge">
+ <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Jaysmito101/ogl?style=for-the-badge">
+
+
 Thank you so much ❤️!
 
 -->
