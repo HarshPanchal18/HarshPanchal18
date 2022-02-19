@@ -117,6 +117,7 @@ Thank you so much ❤️!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&layout=compact&border_radius=15)](https://github.com/HarshPanchal18/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg)](https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406)
 
 Connect with me: 
 
