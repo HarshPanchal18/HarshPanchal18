@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-Trophy
 ![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=nord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
@@ -41,19 +41,7 @@ Profile views: </br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshPanchal18&theme=dark)](https://git.io/streak-stats)
 
 
-![Metrics](https://metrics.lecoq.io/HarshPanchal18?template=classic
-&people=1
-&achievements=1
-&people.limit=24
-&people.size=28
-&people.types=followers%2C%20following
-&people.identicons=false
-&people.shuffle=false
-&achievements.threshold=C
-&achievements.secrets=true
-&achievements.display=detailed
-&achievements.limit=0
-&config.timezone=Asia%2FYekaterinburg)
+![](https://metrics.lecoq.io/HarshPanchal18?template=classic&people=1&achievements=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FYekaterinburg)
 
 <a href="https://profile.codersrank.io/user/harshpanchal18#Tech%20Skills">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HarshPanchal18&labels=true&legend=true&tooltip=true&max-labels=24&branding=false">
@@ -97,6 +85,7 @@ Stars
  <a href="https://github.com/Jaysmito101/dynamic-badges"> 
 <img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/>
 </a>
+
 Refresh for a new meme!
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%3BI%20am%20Jaysmito%3BMaking%20Game%20Engines%20and%203D%20Stuff&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
@@ -107,14 +96,11 @@ Age:
 <img src="https://dynamic-badges.maxalpha.repl.co/age/12/08/2004" />
 </p>
 
-CodersRank Profile
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=harshpanchal18&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=harshpanchal18&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
 
 Thank you so much ❤️!
 
--->
 <h1 align="center">Hi there, I'm Harsh Panchal <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1>
 
 ## #define ME "A Coder"
@@ -131,9 +117,8 @@ Thank you so much ❤️!
                 ||     ||
 ```
 
-<!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&layout=compact&border_radius=15)](https://github.com/HarshPanchal18/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg)](https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406)
