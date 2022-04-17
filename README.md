@@ -17,6 +17,10 @@ Focused Rank Pusher. Learning don'ts in programming language.
 
 
 
+Developer by day. Coder by night.
+
+
+
 ![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=nord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
