@@ -19,6 +19,11 @@ Focused Rank Pusher. Learning don'ts in programming language.
 
 Developer by day. Coder by night.
 
+small talk
+thanks for dropping by this profile. The code that you will find on this repository is not perfect in any way or sometimes code smells. Also, most of it might not be well helpful. But I am trying to work on it every week.
+
+hi, i am saif
+i work as a Developer Advocate for Freshworks Developer Platform. Every now and then, I try to involve with open source communnity to learn as needed.
 
 
 ![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=nord)
