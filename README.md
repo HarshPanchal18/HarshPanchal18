@@ -26,6 +26,15 @@ hi, i am saif
 i work as a Developer Advocate for Freshworks Developer Platform. Every now and then, I try to involve with open source communnity to learn as needed.
 
 
+```console
+$ cat /etc/profile.txt
+Hi, I'm HARSH! 👋
+I'm a software engineer, lifelong-learner, and writer.
+Always curious about backend, frontend, developer tooling, compilers, and programming languages.
+I also like to write, play music, read books, and learn new languages.
+```
+
+
 ![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=nord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats) 
