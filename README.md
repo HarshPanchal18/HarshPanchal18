@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Focused Rank Pusher. Learning don'ts in programming language.
 
-
+A creative, responsible and self-motivated developer who possesses strong technical knowledge and delivers solid systems
 
 Developer by day. Coder by night.
 
