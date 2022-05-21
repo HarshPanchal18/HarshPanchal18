@@ -34,6 +34,8 @@ Always curious about backend, frontend, developer tooling, compilers, and progra
 I also like to write, play music, read books, and learn new languages.
 ```
 
+![](https://www.wallpapertip.com/wmimgs/41-412909_github-octocat.jpg)
+
 
 ![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=nord)
 
