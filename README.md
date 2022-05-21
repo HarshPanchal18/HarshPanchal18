@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center">
+	<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="40" />
+	<p>One moment please...</p>
+</div>
 
 Focused Rank Pusher. Learning don'ts in programming language.
 
