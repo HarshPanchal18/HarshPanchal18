@@ -130,6 +130,7 @@ Age:
 Thank you so much ❤️!
 
 <h1 align="center">Hi there, I'm Harsh Panchal <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm Harsh Panchal <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, </h1>
 
 ## #define ME "A Coder"
 
@@ -223,6 +224,27 @@ Connect with me:
 [![Colab](https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=Google%20Colab&logoColor=F9AB00&labelColor=2F333A)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)<!-- colab -->
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logo=MySQL&logoColor=4479A1&labelColor=F5F5F5)](https://www.mysql.com/)<!-- mysql -->
 
+
+<a href="https://twitter.com/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantk18" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantk18" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/shan-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shan-tk" height="30" width="40" />
+  </a>
+  <a href="https://codesandbox.com/tks18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tks18" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shantk18" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@tksudharshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tksudharshan" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/pixelapsed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pixelapsed" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/tksudharshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tksudharshan" height="30" width="40" />
+  </a>
+  
+  <h3 align="center">🐍 My Snake Contribution Graph 
+  <img align="center" src="https://github.com/HarshPanchal18/HarshPanchal18/raw/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</h3>
 
 
 CheatSheet
