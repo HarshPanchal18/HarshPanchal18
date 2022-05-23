@@ -1,4 +1,4 @@
-
+<!--
 **HarshPanchal18/HarshPanchal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,11 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <div align="center">
 	<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="40" />
 	<p>One moment please...</p>
 </div>
+
+[![abolish ice](https://cdn.glitch.com/17b32ffe-942d-4845-a42f-ca7873ca9379%2Fsource.gif?v=1594334539815)](https://www.latimes.com/business/technology/story/2020-06-12/github-ceo-black-lives-matter-employees-demand-end-ice-contract)
 
 Focused Rank Pusher. Learning don'ts in programming language.
 
