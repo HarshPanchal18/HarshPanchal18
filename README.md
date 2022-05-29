@@ -164,7 +164,7 @@ Thank you so much ❤️!
 
 
 <div align="justify">
-<img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
+<img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg)](https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406)
