@@ -49,6 +49,13 @@ I'm a software engineer, lifelong-learner, and writer.
 Always curious about backend, frontend, developer tooling, compilers, and programming languages.
 I also like to write, play music, read books, and learn new languages.
 ```
+<a href="https://wakatime.com/@Harsh_panchal" target="_blank">
+	<img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harsh_panchal&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
+
+<a href="https://discord.com/users/81440962496172032" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/81440962496172032?bg=1f1f1f&borderRadius=5px">
+</a>
 
 ![](https://www.wallpapertip.com/wmimgs/41-412909_github-octocat.jpg)
 
