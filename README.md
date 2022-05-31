@@ -41,6 +41,12 @@ thanks for dropping by this profile. The code that you will find on this reposit
 hi, i am saif
 i work as a Developer Advocate for Freshworks Developer Platform. Every now and then, I try to involve with open source communnity to learn as needed.
 
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=HarshPanchal18&column=8&theme=algolia&no-frame=true&no-bg=true"/>
+</a>
+
 ### 📊 GitHub Stats:
 ---
 ![HarshPanchal18 github stats](https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=algolia&show_icons=true&count_private=true)
