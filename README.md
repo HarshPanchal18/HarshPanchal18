@@ -41,6 +41,14 @@ thanks for dropping by this profile. The code that you will find on this reposit
 hi, i am saif
 i work as a Developer Advocate for Freshworks Developer Platform. Every now and then, I try to involve with open source communnity to learn as needed.
 
+### 📊 GitHub Stats:
+---
+![HarshPanchal18 github stats](https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=algolia&show_icons=true&count_private=true)
+
+![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=solarized_dark)
+![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=solarized_dark)
+![HarshPanchal18 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=solarized_dark)
+
 
 ```console
 $ cat /etc/profile.txt
