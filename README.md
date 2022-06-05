@@ -29,9 +29,21 @@ Here are some ideas to get you started:
 
 [![abolish ice](https://cdn.glitch.com/17b32ffe-942d-4845-a42f-ca7873ca9379%2Fsource.gif?v=1594334539815)](https://www.latimes.com/business/technology/story/2020-06-12/github-ceo-black-lives-matter-employees-demand-end-ice-contract)
 
+## 🕵 Who Am I
+
+```bash
+$ whoami
+  
+> Student passionate about Computer Science and mathematical / scientific subjects 
+  with an irrepressible desire to learn new things. 
+```
+
+
 Focused Rank Pusher. Learning don'ts in programming language.
 
 A creative, responsible and self-motivated developer who possesses strong technical knowledge and delivers solid systems
+
+Esonhugh is a super computer noob. **Know Nothing** about computer. Just want get other people code from github without money and even want you give me.
 
 Developer by day. Coder by night.
 
