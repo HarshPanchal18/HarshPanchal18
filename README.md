@@ -37,7 +37,12 @@ $ whoami
 > Student passionate about Computer Science and mathematical / scientific subjects 
   with an irrepressible desire to learn new things. 
 ```
-
+<details>
+	<summary>MEMER</summary>
+	<img src="meme1.jpg">
+	<img src="meme2.jpg">
+	<img src="meme3.jpg">
+</details>
 
 Focused Rank Pusher. Learning don'ts in programming language.
 
