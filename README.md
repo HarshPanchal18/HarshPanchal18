@@ -52,6 +52,8 @@ Esonhugh is a super computer noob. **Know Nothing** about computer. Just want ge
 
 Developer by day. Coder by night.
 
+When I don't program for a living, I live for programming. Or not. (Depends on the weather outside).
+
 small talk
 thanks for dropping by this profile. The code that you will find on this repository is not perfect in any way or sometimes code smells. Also, most of it might not be well helpful. But I am trying to work on it every week.
 
