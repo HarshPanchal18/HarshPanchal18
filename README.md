@@ -68,6 +68,8 @@ Outside of the tech world there are multiple things that I enjoy. I am a drummer
 
 I work as a Product Engineer at Udaan. I love open source. I spend my time building UIs and experimenting with new languages and tools to see how they solve different problems in different ways. When not developing, I am often playing football or petting my cat (Bitcoin).
 
+⚡ Fun fact: When I look down I see sheep.
+
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
