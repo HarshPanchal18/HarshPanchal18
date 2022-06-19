@@ -1,14 +1,18 @@
 <h1 align="center">Hi there, I'm Harsh Panchal <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1>
 
-```C
-#define ME "A Coder"
+
+```bash
+# whoami
+  
+> Student passionate about Computer Science with an irrepressible desire to explore and learn new things. 
 ```
 
-<div align="center">
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
-  </div>
-  
-Connect with me: 🤤
+**Connect with me:** 🤤
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/thenameisharsh)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=LinkedIn&logoColor=0088cc)](https://www.linkedin.com/in/harshpanchal18)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=5C6BC0&logo=telegram&logoColor=A8B9CC&labelColor=2F333A)](https://t.me/thenameisharsh)
+
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=5C6BC0&logo=linkedin&logoColor=A8B9CC&labelColor=2F333A)](https://www.linkedin.com/in/harshpanchal18)
+
+[![Reddit](https://img.shields.io/static/v1?label=&message=Reddit&color=5C6BC0&logo=reddit&logoColor=A8B9CC&labelColor=2F333A)](https://www.reddit.com/user/HarshPanchal_)
+
+***As always, all contributions, comments, suggestions and concerns are welcome.*** ✅
