@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 
 [![abolish ice](https://cdn.glitch.com/17b32ffe-942d-4845-a42f-ca7873ca9379%2Fsource.gif?v=1594334539815)](https://www.latimes.com/business/technology/story/2020-06-12/github-ceo-black-lives-matter-employees-demand-end-ice-contract)
 
-I believe in the power of the community and I'm always trying to contribute back to it.
-Always interested in new challenges and opportunities that can help me to improve and learn new skills.
-
 ![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
 
 ## 🕵 Who Am I
@@ -73,7 +70,13 @@ Outside of the tech world there are multiple things that I enjoy. I am a drummer
 
 I work as a Product Engineer at Udaan. I love open source. I spend my time building UIs and experimenting with new languages and tools to see how they solve different problems in different ways. When not developing, I am often playing football or petting my cat (Bitcoin).
 
+High tech. Low life.
+
 ⚡ Fun fact: When I look down I see sheep.
+
+I believe in the power of the community and I'm always trying to contribute back to it.
+
+Always interested in new challenges and opportunities that can help me to improve and learn new skills.
 
 This is a small set of tools that I've written for personal use and find to be incredibly helpful. Despite the fact that all these tools are fairly unconnected (aside from the fact that I made them), each individual tool is small enough that I do not feel it makes sense to give each its own repository.
 
