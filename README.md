@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 
 [![abolish ice](https://cdn.glitch.com/17b32ffe-942d-4845-a42f-ca7873ca9379%2Fsource.gif?v=1594334539815)](https://www.latimes.com/business/technology/story/2020-06-12/github-ceo-black-lives-matter-employees-demand-end-ice-contract)
 
+I believe in the power of the community and I'm always trying to contribute back to it.
+Always interested in new challenges and opportunities that can help me to improve and learn new skills.
+
+![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
+
 ## 🕵 Who Am I
 
 ```bash
