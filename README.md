@@ -7,7 +7,7 @@
 > Student passionate about Computer Science with an irrepressible desire to explore and learn new things. 
 ```
 
-**Connect with me:** 🤤
+**Connect with me:** 🤤💬
 
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=5C6BC0&logo=telegram&logoColor=A8B9CC&labelColor=2F333A)](https://t.me/thenameisharsh)
 
