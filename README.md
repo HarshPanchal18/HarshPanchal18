@@ -46,6 +46,14 @@ $ whoami
 	<img src="meme3.jpg">
 </details>
 
+<!--<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=harshpanchal18&cover_image=true&theme=default"
+    alt="spotify" />
+</a>-->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bxoc5svkmu7koamlw32ihuxg6a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 Focused Rank Pusher. Learning don'ts in programming language.
 
 A creative, responsible and self-motivated developer who possesses strong technical knowledge and delivers solid systems
