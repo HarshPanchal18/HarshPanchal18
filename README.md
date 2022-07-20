@@ -164,6 +164,8 @@ Profile views: </br>
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HarshPanchal18&labels=true&legend=true&tooltip=true&max-labels=24&branding=false">
 </a>
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=harshpanchal18&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"/>
+
 Graph
 ​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=HarshPanchal18&theme=github)
 
@@ -208,9 +210,6 @@ Age:
 <p align="center">
 <img src="https://dynamic-badges.maxalpha.repl.co/age/12/08/2004" />
 </p>
-
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=harshpanchal18&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
 
 Thank you so much ❤️!
 
