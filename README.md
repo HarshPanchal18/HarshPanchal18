@@ -92,6 +92,15 @@ So, this repo is a bit of a grab-bag of helpful utilities I have written.
 
 As always, all contributions, comments, suggestions and concerns are welcome.
 
+FOSS Enthusiast • Tech Writer • Building & writing cool stuff every day • Open for Work
+
+wassup nerds 🖖
+I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.
+
+I am also a guest writer for freeCodeCamp (more than 20k views) and HackerNoon
+I am a builder/tinkerer
+In my free time, I am probably sleeping or reading something online
+
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
