@@ -82,6 +82,16 @@ High tech. Low life.
 
 ⚡ Fun fact: When I look down I see sheep.
 
+-👯 I’m looking to collaborate on any Open Source Projects.
+
+-🔭 I’m currently working on improving my skills.
+
+- 🌌 SPACE 🚀 LOVER
+
+⚡ Fun fact: There is no perfect time to sleep in my dictionary!😁
+
+-✨ I am always there to jump into Hackathons. If u got one, count me in😉
+
 I believe in the power of the community and I'm always trying to contribute back to it.
 
 Always interested in new challenges and opportunities that can help me to improve and learn new skills.
