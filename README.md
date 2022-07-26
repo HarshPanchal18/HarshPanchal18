@@ -76,6 +76,15 @@ On my free time I like to code games, do creative coding, or anything else that 
 
 Outside of the tech world there are multiple things that I enjoy. I am a drummer and a painter. I like to go hiking, trekking and camping and rencently I started bouldering / climbing as well. I also do ceramics, origami, and rencetly I have been growing into sailing.
 
+About me ✨
+
+💻 Self-taught developer currently studying @EPITA
+🌐 Frontend/backend developper
+⚙️ Low-level developper
+🧰 Interest in better development tools and practices
+⛓️ Cryptography learner
+📕 C/Rust teacher assistant
+
 I work as a Product Engineer at Udaan. I love open source. I spend my time building UIs and experimenting with new languages and tools to see how they solve different problems in different ways. When not developing, I am often playing football or petting my cat (Bitcoin).
 
 High tech. Low life.
