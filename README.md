@@ -264,6 +264,10 @@ Thank you so much ❤️!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&layout=compact&border_radius=15)](https://github.com/HarshPanchal18/github-readme-stats)
 
+[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giggio&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giggio&layout=compact&hide=C%23,Rust,Shell,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/mageshyt/leetcode-solutions" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mageshyt&repo=leetcode-solutions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/mageshyt/Amazon-web3" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mageshyt&repo=Amazon-web3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
