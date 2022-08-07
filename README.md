@@ -67,6 +67,37 @@ When I don't program for a living, I live for programming. Or not. (Depends on t
 small talk
 thanks for dropping by this profile. The code that you will find on this repository is not perfect in any way or sometimes code smells. Also, most of it might not be well helpful. But I am trying to work on it every week.
 
+I'm Hammed, a Software Engineer currently living and working in London. I specialize in designing and building scalable backend systems. And, I love working with Linux containers, and cloud-native technologies.
+
+I currently work at Goldman Sachs International in London, where I am helping to build high quality customer relationship management tools for Goldman's Investment Bankers throughout the continent. Using Java, Python, AWS and cloud-native techs.
+
+Prior to that, I led a team of engineers in an effort to build a digital bank at Roava. Using Go, Pulsar, google-cloud and cloud-native techs.
+
+I love hacking on projects on the side. In the past, I've worked on projects like
+
+- csail.sh - a simple way to deploy and scale docker containers in a kubernetes cluster.
+
+- registry-auth - a library to aid in implementing authentication and authorization system for private docker registries.
+
+- And, more.
+
+I also write at Hammed Adigun's Blog
+
+Software Person
+
+
+```tsx
+var David = {
+    '🌱 age': 26,
+    '⏳ experience': '6 years +',
+    '💻 coding on': 'Linux'
+};
+```
+
+Top 1% JS ninja 😉 by #codersrank \ React Native guru 🧘\ DevOps adjutant \ Linux lover ❤️
+
+When I am not at work or hacking something on my computer, I love playing football and, exploring new restaurants 😛
+
 I'm specialized in electronics and automation, although I defend myself well in computer environments.
 
 My topics of interest are Ubuntu, Xiaomi, Android, Arduino, Raspberry Pi, Open Source, Odoo, etc
