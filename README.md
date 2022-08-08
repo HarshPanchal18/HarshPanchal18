@@ -46,6 +46,8 @@ $ whoami
 	<img src="meme3.jpg">
 </details>
 
+<a href="https://app.daily.dev/harshpanchal"><img src="https://api.daily.dev/devcards/c84576eaedee4196a35edcefe15876a0.png?r=5jc" width="400" alt="Harsh Panchal's Dev Card"/></a>
+
 <!--<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view?uid=harshpanchal18&cover_image=true&theme=default"
