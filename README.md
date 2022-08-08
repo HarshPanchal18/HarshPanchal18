@@ -16,6 +16,8 @@
 
 [![Reddit](https://img.shields.io/static/v1?label=&message=Reddit&color=5C6BC0&logo=reddit&logoColor=A8B9CC&labelColor=2F333A)](https://www.reddit.com/user/HarshPanchal_)
 
+[![WEB](https://img.shields.io/static/v1?label=&message=Harsh's%20Web&color=5C6BC0&logo=appveyor&logoColor=A8B9CC&labelColor=2F333A)](https://www.about.me/panchalharsh)
+
 </details>
 
 
