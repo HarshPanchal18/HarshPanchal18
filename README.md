@@ -87,6 +87,9 @@ I also write at Hammed Adigun's Blog
 
 Software Person
 
+I'm a Software Engineer working in Japan.
+💻 daily : .py, .sh, .c, .cpp, .vim, .bb, .bbclass
+📖 Love reading human psychology books
 
 ```tsx
 var David = {
