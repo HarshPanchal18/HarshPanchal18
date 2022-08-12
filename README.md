@@ -73,6 +73,20 @@ I'm Hammed, a Software Engineer currently living and working in London. I specia
 
 I currently work at Goldman Sachs International in London, where I am helping to build high quality customer relationship management tools for Goldman's Investment Bankers throughout the continent. Using Java, Python, AWS and cloud-native techs.
 
+I've been trying to reach you about your browser’s extended warranty.
+
+Build with passion, detail, and love to produce a delightful experience.
+
+🧑 About me:
+I am working as a Blockchan Full Stack Engineer for 6 years and have developed many projects according to clients' needs.
+I am a self-motivated expert with a solid work ethic and a productive self-starter, which alongside my aptitude for learning, keeps me updated.
+I am an ambitious man with rich experience.
+Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.
+Develop high-quality Mobile app for rapid deployment of bug fixes and new features using established development standards.
+As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer satisfaction.
+I can contribute to your project as an individual full-stack developer. And if you want to work with our agency, I can lead teammates.
+Always looking for new solutions and new challenges, new experiences.
+
 Prior to that, I led a team of engineers in an effort to build a digital bank at Roava. Using Go, Pulsar, google-cloud and cloud-native techs.
 
 I love hacking on projects on the side. In the past, I've worked on projects like
