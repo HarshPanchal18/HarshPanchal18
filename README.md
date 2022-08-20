@@ -113,6 +113,8 @@ var David = {
 };
 ```
 
+![about](https://user-images.githubusercontent.com/11851670/35474321-b9f3f4be-039d-11e8-80b3-7e06b132bb92.gif)
+
 Top 1% JS ninja 😉 by #codersrank \ React Native guru 🧘\ DevOps adjutant \ Linux lover ❤️
 
 When I am not at work or hacking something on my computer, I love playing football and, exploring new restaurants 😛
