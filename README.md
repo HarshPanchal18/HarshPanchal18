@@ -178,6 +178,12 @@ I am also a guest writer for freeCodeCamp (more than 20k views) and HackerNoon
 I am a builder/tinkerer
 In my free time, I am probably sleeping or reading something online
 
+I'm a junior pursuing bachelor's degree in cyberspace security. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Backend Development 🕸️, Data Science 🤓 and working on Data structures and algorithms.
+
+Thanks for checking out my profile, have a great day.
+I love connecting with different people so if you want to say hi, i'd be happy to connect:)
+
+
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
