@@ -54,6 +54,9 @@ $ whoami
     alt="spotify" />
 </a>-->
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BDBDBD&width=700&lines=Your+life+is+your+project%2C+follow+your+flow+and+close+the+issues)
+---
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bxoc5svkmu7koamlw32ihuxg6a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 Focused Rank Pusher. Learning don'ts in programming language.
@@ -86,6 +89,16 @@ Develop high-quality Mobile app for rapid deployment of bug fixes and new featur
 As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer satisfaction.
 I can contribute to your project as an individual full-stack developer. And if you want to work with our agency, I can lead teammates.
 Always looking for new solutions and new challenges, new experiences.
+
+About Me 
+68747470733a2f2f632e74656e6f722e636f6d2f755a467130372d756a4b3841414141692f6d616e2d736872756767696e672d6a6f79706978656c732e676966
+🔭 Currently working on my website
+👯 I’m looking to collaborate with people who have passion to grow themselves consistently
+🤔 I’m looking for help with finding people who are into journey towards freedom
+💬 Ask me about life, Flutter, design, philosophy and tactics do better at life
+
+I am a computer science student with experience working as software engineer. I have built 50 software projects in web development , mobile application development and desktop application development and I am looking for a role where I can grow and learn from other experienced team
+
 
 Prior to that, I led a team of engineers in an effort to build a digital bank at Roava. Using Go, Pulsar, google-cloud and cloud-native techs.
 
