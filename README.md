@@ -72,6 +72,20 @@ When I don't program for a living, I live for programming. Or not. (Depends on t
 small talk
 thanks for dropping by this profile. The code that you will find on this repository is not perfect in any way or sometimes code smells. Also, most of it might not be well helpful. But I am trying to work on it every week.
 
+I like to reinvent wheels.
+
+😁 Yet another game-dev-wannabe
+
+I’m Swapnil. Nice to meet you 🙂
+
+I’m a software developer working as a community manager based in India. I work as a liaison between an organization and its audience that helps move businesses forward. I have a keen interest in web accessibility, User Experience, and Customer Experience processes. I’m passionate about using data-driven techniques to discover the perfect products for the right market, then bringing those products to life.
+
+A continual focus of mine is building amazing experiences for the mobile web, from blazing performance to progressive web apps to solid mobile user experiences. This, of course, translates to the desktop as well, where optimizations for mobile improve site performance overall and result in a seamless device-to-device experience for users.
+
+I am passionate to share my experiences on building architectures with best practices and help strengthen the makers of tomorrow. Efficiently crafting web and mobile apps. Building state-of-the-art, easy-to-use, user-friendly, and accessible applications is a passion for me.
+
+As a developer, I have focused on the needs of customer-facing applications and am actively involved in the Front-end & CMS space. I have been leading teams with businesses of all industries and sizes on innovation, as they deploy critical workloads onto the cloud, Serverless, and JAMStack.
+
 I'm Hammed, a Software Engineer currently living and working in London. I specialize in designing and building scalable backend systems. And, I love working with Linux containers, and cloud-native technologies.
 
 I currently work at Goldman Sachs International in London, where I am helping to build high quality customer relationship management tools for Goldman's Investment Bankers throughout the continent. Using Java, Python, AWS and cloud-native techs.
