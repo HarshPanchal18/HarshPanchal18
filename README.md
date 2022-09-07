@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 	<p>One moment please...</p>
 </div>
 
+<img src="https://media1.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" height="150px"></p>
+
 ```
 ▄▄    ▄▄                                ▄▄       
 ██    ██                                ██       
