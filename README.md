@@ -96,6 +96,8 @@ I've been trying to reach you about your browser’s extended warranty.
 
 Build with passion, detail, and love to produce a delightful experience.
 
+A naive coder :( pursuing CS Engineering with a geeky mind inside.
+
 🧑 About me:
 I am working as a Blockchan Full Stack Engineer for 6 years and have developed many projects according to clients' needs.
 I am a self-motivated expert with a solid work ethic and a productive self-starter, which alongside my aptitude for learning, keeps me updated.
