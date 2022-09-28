@@ -127,6 +127,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->Focused Rank Pusher. Learning don'ts in programming language.
 
+Systems Engineer, Developer and Architect. Go, Python, Docker, Networking, Electronics, Kaggle, Web, React Native, Cloud. Avoiding bullshit jobs for 20 years
+
 A creative, responsible and self-motivated developer who possesses strong technical knowledge and delivers solid systems
 
 Esonhugh is a super computer noob. **Know Nothing** about computer. Just want get other people code from github without money and even want you give me.
