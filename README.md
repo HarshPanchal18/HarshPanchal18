@@ -55,6 +55,11 @@ $ whoami
     src="https://spotify-github-profile.vercel.app/api/view?uid=harshpanchal18&cover_image=true&theme=default"
     alt="spotify" />
 </a>-->
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=31bxoc5svkmu7koamlw32ihuxg6a&cover_image=true&theme=default"
+    alt="spotify" />
+</a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BDBDBD&width=700&lines=Your+life+is+your+project%2C+follow+your+flow+and+close+the+issues)
 ---
