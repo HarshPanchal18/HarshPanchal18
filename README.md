@@ -205,6 +205,15 @@ I also write at Hammed Adigun's Blog
 
 Software Person
 
+My repos demand more time than I have, so I have to be ruthless in my prioritization. Send me a DM on Twitter if you want to help out.
+
+🌱 Skills
+I've been working as a backend developer, frontend developer, CTO and architect, in all sorts of programming languages, ranging from Visual Basic to C, Perl, Ruby, Python, PHP, C#, JavaScript, Bash, etc. I therefore consider myself polyglot and "full-stack", whatever that means. I enjoy all parts of development, appreciate most programming languages and find the freedom to use the right tool for the job a liberating, creative and rewarding experience.
+
+C#, JavaScript, Ruby
+REST, HTTP, distributed systems
+Modeling, Domain-driven design
+
 I'm a Software Engineer working in Japan.
 💻 daily : .py, .sh, .c, .cpp, .vim, .bb, .bbclass
 📖 Love reading human psychology books
@@ -215,6 +224,15 @@ var David = {
     '⏳ experience': '6 years +',
     '💻 coding on': 'Linux'
 };
+```
+
+```
+╥━━━━━━━━╭━━━╮━━┳ 
+╢╭╮╭━━━━━┫┃▋▋━▅┣
+╢┃╰┫┈┈┈┈┈┃┃┈┈╰┫┣ 
+╢╰━┫┈┈┈┈┈╰╯╰┳━╯┣
+╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣ 
+╨━━┗┛┗┛━━┗┛┗┛━━┻
 ```
 
 ![about](https://user-images.githubusercontent.com/11851670/35474321-b9f3f4be-039d-11e8-80b3-7e06b132bb92.gif)
