@@ -169,6 +169,10 @@ Build with passion, detail, and love to produce a delightful experience.
 
 A naive coder :( pursuing CS Engineering with a geeky mind inside.
 
+A man with a lot of obscure knowledge.
+
+I don't have to be the best. Just better than yesterday.
+
 Software Engineer // Open Source Enthusiast // Creator of diff2html.xyz and dependency_spy // Building awesome things in Scala // Music Lover
 
 🧑 About me:
