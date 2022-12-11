@@ -24,15 +24,20 @@
 <details>
   <summary><b>My Work Stats 🐱‍👤📈</b></summary>
   
-![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=solarized_dark)
+<!--![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=solarized_dark)
 ![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=solarized_dark)
 ![HarshPanchal18 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=solarized_dark)
-
+-->
 ​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=HarshPanchal18&theme=github)
+
+<div align="justify">
+<img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
+</div>
 
 [![Harsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harsh_panchal&theme=gruvbox&layout=compact)](https://github-readme-stats.vercel.app)
 
 [![wakatime](https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg)](https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406)
+_(since 26 Jan, 021)_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats)
 </details>
