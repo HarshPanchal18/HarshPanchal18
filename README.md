@@ -37,7 +37,7 @@
 [![Harsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harsh_panchal&theme=gruvbox&layout=compact)](https://github-readme-stats.vercel.app)
 
 [![wakatime](https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg)](https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406)
-_(since 26 Jan, 021)_
+_(since 26 Jan, 022)_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats)
 </details>
