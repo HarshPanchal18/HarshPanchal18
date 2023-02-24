@@ -1,10 +1,11 @@
-<h1 align="center">Hi there, I'm Harsh Panchal <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1>
+<h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1>
 
-
-```bash
-# whoami
-  
-> Student passionate about Computer Science with an irrepressible desire to explore and learn new things. 
+```console
+$ cat /etc/profile.txt
+Hi, I'm HARSH! 👋
+I'm a Software engineer in growth mode, lifelong-learner, and reader.
+Backend, frontend, observing and developing tools, and programming languages always excite me.
+Additionally, I enjoy listening to music, reading books, and acquiring new knowledge.
 ```
 
 <details>
@@ -14,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=5C6BC0&logo=linkedin&logoColor=A8B9CC&labelColor=2F333A)](https://www.linkedin.com/in/harshpanchal18)
 
-[![Reddit](https://img.shields.io/static/v1?label=&message=Reddit&color=5C6BC0&logo=reddit&logoColor=A8B9CC&labelColor=2F333A)](https://www.reddit.com/user/HarshPanchal_)
+<!--[![Reddit](https://img.shields.io/static/v1?label=&message=Reddit&color=5C6BC0&logo=reddit&logoColor=A8B9CC&labelColor=2F333A)](https://www.reddit.com/user/HarshPanchal_)-->
 
 [![WEB](https://img.shields.io/static/v1?label=&message=Harsh's%20Web&color=5C6BC0&logo=appveyor&logoColor=A8B9CC&labelColor=2F333A)](https://www.about.me/panchalharsh)
 
@@ -27,8 +28,9 @@
 <!--![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=solarized_dark)
 ![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=solarized_dark)
 ![HarshPanchal18 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=solarized_dark)
--->
+
 ​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=HarshPanchal18&theme=github)
+-->
 
 <div align="justify">
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
