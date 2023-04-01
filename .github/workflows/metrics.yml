@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: felipecrs
+          user: HarshPanchal18
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
           config_timezone: India/Mumbai
