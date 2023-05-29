@@ -1,4 +1,5 @@
-![](/terminal-gif.gif)
+
+<p align="center"><img src="/terminal-gif.gif" /></p>
 <h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1>
 
 ```console
