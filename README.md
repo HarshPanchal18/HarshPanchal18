@@ -1,3 +1,4 @@
+![](/terminal-gif.gif)
 <h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1>
 
 ```console
