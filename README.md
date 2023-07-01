@@ -54,8 +54,8 @@ _(since 26 Jan, 022)_
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bxoc5svkmu7koamlw32ihuxg6a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</details>-->
+</details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshPanchal18&label=Profile%20views&color=0e75b6&style=flat" alt="HarshPanchal18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshPanchal18&label=Profile%20views&color=0e75b6&style=flat" alt="HarshPanchal18" /> </p>-->
 
 ***As always, all contributions, comments, suggestions and concerns are welcome.*** ✅
