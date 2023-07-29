@@ -1,5 +1,3 @@
-
-<p align="center"><img src="/terminal-gif.gif" /></p>
 <h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1>
 
 ```console
@@ -25,25 +23,39 @@ Additionally, I enjoy listening to music, reading books, and acquiring new knowl
 
 </details>
 
-
+-->
 <details>
   <summary><b>My Work Stats 🐱‍👤📈</b></summary>
-  
-<!--![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=solarized_dark)
-![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=solarized_dark)
-![HarshPanchal18 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=solarized_dark)
 
-​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=HarshPanchal18&theme=github)
--->
+
+[![wakatime](https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg)](https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406)
+_(since 26 Jan, 022)_
+
+![HarshPanchal18 github stats](https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=github_dark&show_icons=true&count_private=true)
+
+![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=github_dark)
+![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=github_dark)
+![HarshPanchal18 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=github_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshPanchal18&theme=github_dark)](https://git.io/streak-stats) -->
+
+## 🏆GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
+
+<p align="center"><img src="/terminal-gif.gif" /></p>
+
+</details>
+
+<!-- ![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta) -->
+
 <!--
+​![​Activity Graph​](https://activity-graph.herokuapp.com/graph?username=HarshPanchal18&theme=github_dark)
 <div align="justify">
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&layout=compact&hide=roff,MATLAB&langs_count=10&theme=dark&custom_title=Top%20languages>
 </div>
 
 [![Harsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harsh_panchal&theme=gruvbox&layout=compact)](https://github-readme-stats.vercel.app)
 -->
-[![wakatime](https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg)](https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406)
-_(since 26 Jan, 022)_
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal18&theme=react&border_radius=15&custom_title=Most-Used-Languages)](https://github.com/HarshPanchal18/github-readme-stats)
 </details>
