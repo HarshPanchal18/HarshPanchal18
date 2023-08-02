@@ -341,6 +341,9 @@ I also like to write, play music, read books, and learn new languages.
 	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/81440962496172032?bg=1f1f1f&borderRadius=5px">
 </a>
 
+<center>
+<a href="https://stackexchange.com/users/18275295"><img src="https://stackexchange.com/users/flair/18275295.png" width="208" height="58" alt="profile for Harsh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Harsh on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></center>
+
 <h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
