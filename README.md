@@ -4,12 +4,15 @@
 </p>
 <details open>
     <summary><h2>🤠 About me</h2></summary>
+    <b>I'm</b>
     <ul>
-        <li>I'm a Software engineer in growth mode, lifelong-learner, and reader.</li>
-        <li>I'm learning more about Mobile development & Security</li>
-        <li>I'm focusing on best practices (clean code, software architecture, MVI, ...)</li>
-        <li>I'm always looking for better ways to solve problems</li>
-        <li>Additionally, I enjoy listening to music, reading books, and acquiring new knowledge.</li>
+        <li>A Software engineer in growth mode, lifelong-learner, and reader.</li>
+        <li>Learning more about Mobile development & DevOps terms </li>
+        <li>Focusing on best practices (clean code, software architecture, MVI, ...)</li>
+        <li>Always looking for better ways to solve problems.</li>
+        <li>Spending time and energy for reducing repetition to save time and energy.</li>
+        <li>Participating to build a better community</li>
+        <li>Additionally, I enjoy listening to music, reading books, and configuring new systems.</li>
     </ul>
 </details>
 
@@ -52,7 +55,8 @@ _(since 26 Jan, 022)_
 ![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=github_dark)
 ![HarshPanchal18 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=github_dark)
 ![HarshPanchal18 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=github_dark)
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![](https://metrics.lecoq.io/HarshPanchal18?template=classic&people=1&achievements=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FYekaterinburg)
 
 ## 🏆GitHub Trophies
