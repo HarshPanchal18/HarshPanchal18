@@ -2,20 +2,17 @@
 
 [![An image of @harshpanchal18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshpanchal18)](https://holopin.io/@harshpanchal18)
 
-<p align="center">
-    <img align="right" alt="Coding" width="400" src="Programmer-I.gif">
-</p>
 <details open>
-    <summary><h2>🤠 About me</h2></summary>
+    <summary><h2>😁 About me</h2></summary>
     <b>I'm</b>
     <ul>
         <li>A Software engineer in growth mode, lifelong-learner, and reader.</li>
-        <li>Learning more about Mobile development & DevOps terms </li>
-        <li>Focusing on best practices (clean code, software architecture, MVI, ...)</li>
+        <li>Learning more about Mobile development & DevSecOps terms.</li>
+        <li>Focusing on best practices (Clean code, Software architecture, MVI, SOLID, ...)</li>
         <li>Always looking for better ways to solve problems.</li>
         <li>Spending time and energy for reducing repetition to save time and energy.</li>
-        <li>Participating to build a better community</li>
-        <li>Additionally, I enjoy listening to music, reading books, and configuring new systems.</li>
+        <li>Participating to build a better community.</li>
+        <li>Additionally, I enjoy listening to music, swimming, reading books, and configuring new systems.</li>
     </ul>
 </details>
 
@@ -63,7 +60,7 @@ _(since 26 Jan, 022)_
 ![](https://metrics.lecoq.io/HarshPanchal18?template=classic&people=1&achievements=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FYekaterinburg)
 
 ## 🏆GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=9)
+[![](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=10)](https://github-profile-trophy.vercel.app/?username=HarshPanchal18&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=10)
 
 </details>
 
