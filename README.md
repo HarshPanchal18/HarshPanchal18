@@ -1,4 +1,7 @@
 <h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1>
+
+[![An image of @harshpanchal18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshpanchal18)](https://holopin.io/@harshpanchal18)
+
 <p align="center">
     <img align="right" alt="Coding" width="400" src="Programmer-I.gif">
 </p>
