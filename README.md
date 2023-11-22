@@ -1,4 +1,3 @@
-<!--
 **HarshPanchal18/HarshPanchal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 भारत / India
 <div align="center">
 	<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="40" />
@@ -239,6 +238,8 @@ var David = {
 ╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣ 
 ╨━━┗┛┗┛━━┗┛┗┛━━┻
 ```
+
+![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/13305229?label=Stackoverflow%20Reputation)
 
 ![about](https://user-images.githubusercontent.com/11851670/35474321-b9f3f4be-039d-11e8-80b3-7e06b132bb92.gif)
 
