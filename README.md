@@ -1,20 +1,11 @@
 <h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1>
 
-[![An image of @harshpanchal18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshpanchal18)](https://holopin.io/@harshpanchal18)
+<p align="center">
+  <a href="https://github.com/HarshPanchal18"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Mobile%20Developer;Always%20learning%20new%20things;Participating%20to%20build%20a%20community%20better&font=Fira%20Code&center=true&width=580&height=45&color=ff65ce&vCenter=true&size=22">
+  </a>
+</p>
 
-<details open>
-    <summary><h2>😁 About me</h2></summary>
-    <b>I'm</b>
-    <ul>
-        <li>A Software engineer in growth mode, lifelong-learner, and reader.</li>
-        <li>Learning more about Mobile development & DevSecOps terms.</li>
-        <li>Focusing on best practices (Clean code, Software architecture, MVI, SOLID, ...)</li>
-        <li>Always looking for better ways to solve problems.</li>
-        <li>Spending time and energy for reducing repetition to save time and energy.</li>
-        <li>Participating to build a better community.</li>
-        <li>Additionally, I enjoy listening to music, swimming, reading books, and configuring new systems.</li>
-    </ul>
-</details>
+[![An image of @harshpanchal18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshpanchal18)](https://holopin.io/@harshpanchal18)
 
 ## Development
 <p align="left">
