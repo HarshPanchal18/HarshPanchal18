@@ -1,7 +1,7 @@
 <h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1>
 
 <p align="center">
-  <a href="https://github.com/HarshPanchal18"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Mobile%20Developer;Always%20learning%20new%20things;Participating%20to%20build%20a%20community%20better&font=Fira%20Code&center=true&width=580&height=45&color=ff65ce&vCenter=true&size=22">
+  <a href="https://github.com/HarshPanchal18"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things;Participating%20to%20build%20a%20community%20better&font=Fira%20Code&center=true&width=580&height=45&color=ff65ce&vCenter=true&size=22">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 ## Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=6&i=mongodb,mysql,firebase,appwrite,redis,sqlite" />
+    <img src="https://skillicons.dev/icons?perline=6&i=mysql,firebase,sqlite,mongodb,appwrite,redis" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=6&i=github,devto,docker,flask,gcp,git,linux,regex,vim,neovim,md,githubactions,ps,dotnet,powershell,azure,postman," />
+    <img src="https://skillicons.dev/icons?perline=6&i=github,linux,vim,neovim,devto,flask,gcp,git,regex,md,jenkins,githubactions,ps,dotnet,powershell,azure,postman," />
   </a>
 </p>
 
