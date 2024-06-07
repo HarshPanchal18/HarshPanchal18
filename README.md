@@ -10,14 +10,14 @@
 ## Development 🛠️
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=6&i=androidstudio,kotlin,gradle,idea,vscode,flutter" />
+    <img src="https://skillicons.dev/icons?perline=6&i=androidstudio,kotlin,gradle,idea,flutter" />
   </a>
 </p>
 
-## Databases 🗂️
+## Databases and Backend ⚙️📊🗂️
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=6&i=mysql,firebase,sqlite,postgres,mongodb,appwrite" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,postgres,spring,ktor,postman,flask" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 ## Tools 🧰
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linux,vim,neovim,devto,flask,git,regex,md,jenkins,githubactions,ps,dotnet,stackoverflow,postman&perline=15" />
+    <img src="https://skillicons.dev/icons?i=github,linux,vim,neovim,vscode,devto,git,regex,md,jenkins,githubactions,ps,dotnet,stackoverflow&perline=15" />
   </a>
 </p>
 <!--<details><summary><b>Work Stats 🐱‍👤📈</b></summary><br/>-->
@@ -39,6 +39,9 @@
 ## Work Stats 📈
 [![wakatime](https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg)](https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406)
 _(since 26 Jan, 022)_
+
+![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/13305229?label=Stackoverflow%20Reputation)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarshPanchal18&logo=leetcode&logoColor=yellow)]([https://leetcode.com](https://leetcode.com/HarshPanchal18/))
 
 ![HarshPanchal18 github stats](https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=github_dark&show_icons=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
