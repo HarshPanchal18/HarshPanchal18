@@ -9,7 +9,7 @@
 
 <!--<details><summary><b>Work Stats 🐱‍👤📈</b></summary><br/>-->
 #
-<h2 align="center">Technology Stack 📈</h2>
+<h2 align="center">Technology Stack 🧪</h2>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>🛠️ Development</kbd>
@@ -34,8 +34,9 @@
     <br>
     <br>
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" />
+    <!--<img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" />-->
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Redis-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Supabase-Light.svg" />
   </kbd>
