@@ -18,8 +18,9 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Gradle-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
+<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" /> -->
   </kbd>
+
   <kbd>
     <kbd>⚙️ Back-end</kbd>
     <br>
@@ -29,6 +30,7 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" />
   </kbd>
+
   <kbd>
     <kbd>🗂️ Database</kbd>
     <br>
@@ -40,8 +42,7 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Supabase-Light.svg" />
   </kbd>
-  <br>
-  <br>
+  <br><br>
   <kbd>
     <kbd>🧮 Languages</kbd>
     <br>
@@ -53,22 +54,31 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" /> 
   </kbd>
-  <br>
-  <br>
+  <br><br>
    <kbd>
     <kbd>🧰 Tools</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VIM-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/NeoVim-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Regex-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jenkins-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Light.svg" />
+      <br><br>
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VIM-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" />
+<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/NeoVim-Light.svg" /> -->
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Regex-Light.svg" />
+<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jenkins-Light.svg" /> -->
   </kbd>
+  <br><br>
+  <kbd>
+    <kbd>☎️ Socials</kbd>
+      <br><br>
+      <a href="https://stackoverflow.com/users/13305229/harsh-panchal"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Light.svg" /></a>
+      <a href="https://linkedin.com/in/harshpanchal18"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" /></a>
+      <a href="https://x.com/twitsofharsh"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" /></a>
+      <a href="https://discordapp.com/users/755683604239220747"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" /></a>
+  </kbd>
+  
 </p>
 
 #
