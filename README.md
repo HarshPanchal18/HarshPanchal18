@@ -1,7 +1,8 @@
-<h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1>
+<!-- <h1 align="center">नमस्ते, I'm Harsh Panchal &#128591;</h1> -->
 
 <p align="center">
-  <a href="https://github.com/HarshPanchal18"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things;Participating%20to%20build%20a%20community%20better&font=Architects+Daughter&center=true&width=780&height=45&color=ff65ce&vCenter=true&size=34">
+<h2 align="center">FOSS Enthusiast • Building & writing cool stuff every day • Tech Writer • Open for Work</h2>
+<!--   <a href="https://github.com/HarshPanchal18"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things;Participating%20to%20build%20a%20community%20better&font=Architects+Daughter&center=true&width=780&height=45&color=ff65ce&vCenter=true&size=34"> -->
   </a>
 </p>
 
@@ -9,7 +10,7 @@
 
 <!--<details><summary><b>Work Stats 🐱‍👤📈</b></summary><br/>-->
 #
-<h2 align="center">Technology Stack 🧪</h2>
+<h2 align="center">Technology Picks 🧪</h2>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>🛠️ Development</kbd>
@@ -28,7 +29,7 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Ktor-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" />
+<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" /> -->
   </kbd>
 
   <kbd>
@@ -52,7 +53,8 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" /> 
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" /> 
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" />
   </kbd>
   <br><br>
    <kbd>
@@ -64,7 +66,7 @@
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" />
 <!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/NeoVim-Light.svg" /> -->
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />
+<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" /> -->
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Regex-Light.svg" />
 <!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jenkins-Light.svg" /> -->
@@ -96,4 +98,6 @@
 
 </div>
 
-***As always, all contributions, comments, suggestions and concerns are welcome.*** ✅
+<p align="center">
+  <b>As always, all contributions, comments, suggestions and concerns are welcome. ✅</b>
+</p>
