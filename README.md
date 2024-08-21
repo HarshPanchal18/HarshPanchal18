@@ -89,10 +89,11 @@
 <h2>Perfromance Stats 📈</h2>
 
 <a href="https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406"><img src="https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg"/></a> <b><i>since 26 Jan, 022</i></b>
-<br><br>
+<br>
 <img src="https://img.shields.io/stackexchange/stackoverflow/r/13305229?label=Stackoverflow%20Reputation"/>
-<a href="https://leetcode.com/HarshPanchal18/"><img src="https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarshPanchal18&logo=leetcode&logoColor=yellow"/></a>
+<!-- <a href="https://leetcode.com/HarshPanchal18/"><img src="https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarshPanchal18&logo=leetcode&logoColor=yellow"/></a> 
 <br><br>
+-->
 <img src="https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=github_dark&show_icons=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/> <!--(https://git.io/streak-stats)-->
 
