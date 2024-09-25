@@ -17,15 +17,15 @@
 <!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" /> -->
   </kbd>
 
-  <kbd>
+  <!-- <kbd>
     <kbd>⚙️ Back-end</kbd>
     <br>
     <br>
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Ktor-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" />
-<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" /> -->
-  </kbd>
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" /> -->
+<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" />
+  </kbd> -->
 
   <kbd>
     <kbd>🗂️ Database</kbd>
@@ -47,9 +47,9 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" /> 
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" /> 
+<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" />  -->
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" />
+<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" /> -->
   </kbd>
   <br><br>
    <kbd>
@@ -63,6 +63,7 @@
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
 <!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" /> -->
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Regex-Light.svg" />
 <!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jenkins-Light.svg" /> -->
   </kbd>
@@ -74,6 +75,7 @@
       <a href="https://linkedin.com/in/harshpanchal18"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" /></a>
       <a href="https://x.com/twitsofharsh"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" /></a>
       <a href="https://discordapp.com/users/755683604239220747"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" /></a>
+      <a href="https://instagram.com/imharsh.18"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" /></a>
   </kbd>
   
 </p>
