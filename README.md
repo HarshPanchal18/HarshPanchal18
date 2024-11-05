@@ -63,8 +63,8 @@
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
 <!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" /> -->
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Regex-Light.svg" />
+<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" /> -->
+<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Regex-Light.svg" /> -->
 <!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jenkins-Light.svg" /> -->
   </kbd>
   <br><br>
