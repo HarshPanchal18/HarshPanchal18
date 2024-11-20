@@ -46,8 +46,9 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Light.svg" /> 
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" /> 
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GoLang.svg" />
 <!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" />  -->
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" />
 <!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" /> -->
   </kbd>
