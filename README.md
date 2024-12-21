@@ -89,7 +89,9 @@
 <a href="https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406"><img src="https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg"/></a> 
 <b><i>since 26 Jan, 022</i></b>
 
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/13305229?label=Stackoverflow%20Reputation"/><br/>
+<center>
+  <a href="https://stackexchange.com/users/18275295/harsh-panchal?tab=accounts"><img src="https://stackexchange.com/users/flair/18275295.png" width="208" height="58" alt="profile for Harsh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Harsh on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</center><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=github_dark&show_icons=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/> <!--(https://git.io/streak-stats)-->
