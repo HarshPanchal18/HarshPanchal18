@@ -32,13 +32,14 @@
     <br>
     <br>
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" />
-    <!--<img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" />-->
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Redis-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Supabase-Light.svg" />
   </kbd>
   <br><br>
+
+  
   <kbd>
     <kbd>🧮 Languages</kbd>
     <br>
@@ -47,28 +48,32 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GoLang.svg" />
-<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" />  -->
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" />
-<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" /> -->
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" />
+  </kbd>
+  <br><br>
+  <kbd>
+    <kbd>📦 DevOps</kbd>
+    <br><br>
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GitLab-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kubernetes.svg" />
   </kbd>
   <br><br>
    <kbd>
-    <kbd>🧰 Tools</kbd>
+    <kbd>✏️ Editors</kbd>
       <br><br>
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VIM-Light.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" />
-<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/NeoVim-Light.svg" /> -->
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
-<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" /> -->
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
-<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" /> -->
-<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Regex-Light.svg" /> -->
-<!--       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jenkins-Light.svg" /> -->
   </kbd>
-  <br><br>
+<!--   <br><br> -->
+
   <kbd>
     <kbd>☎️ Socials</kbd>
       <br><br>
