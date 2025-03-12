@@ -102,4 +102,9 @@ jobs:
 
           # name: StackOverflow
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_user: 13305229
+
+          # name: Leetcode
+          plugin_leetcode: yes
+          plugin_leetcode_user: HarshPanchal18
+          plugin_leetcode_sections: solved, skills, recent
