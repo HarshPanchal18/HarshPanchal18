@@ -22,7 +22,7 @@ jobs:
           user: HarshPanchal18
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
-          config_timezone: India/Mumbai
+          # config_timezone: India/Mumbai
           retries: 3
           retries_delay: 300
           repositories_batch: 5
