@@ -13,7 +13,9 @@
     <br>
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Gradle-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Ktor-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" />
+
 <!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" /> -->
   </kbd>
 
@@ -63,14 +65,20 @@
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kubernetes.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Ansible.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Prometheus.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Grafana-Light.svg" />
   </kbd>
   <br><br>
    <kbd>
     <kbd>✏️ Editors</kbd>
       <br><br>
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
+      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VIM-Light.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" />
+
   </kbd>
 <!--   <br><br> -->
 
