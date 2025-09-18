@@ -5,7 +5,7 @@
 [![An image of @harshpanchal18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshpanchal18)](https://holopin.io/@harshpanchal18)
 
 #
-<h2 align="center">Technology Picks 🧪</h2>
+<!--<h2 align="center">Technology Picks 🧪</h2>-->
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>🛠️ Development</kbd>
@@ -15,19 +15,7 @@
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Gradle-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Ktor-Light.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" />
-
-<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" /> -->
   </kbd>
-
-  <!-- <kbd>
-    <kbd>⚙️ Back-end</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Ktor-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" /> -->
-<!--     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" />
-  </kbd> -->
 
   <kbd>
     <kbd>🗂️ Database</kbd>
@@ -47,9 +35,9 @@
     <br>
     <br>
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" />
+    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GoLang.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Light.svg" /> 
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GoLang.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" /> 
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" />
     <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" />
@@ -97,7 +85,7 @@
 #
 
 <div align="center">
-<h2>Perfromance Stats 📈</h2>
+<!--<h2>Perfromance Stats 📈</h2>-->
 
 <a href="https://wakatime.com/@60086e5f-adb2-4a00-ba01-c193121a8406"><img src="https://wakatime.com/badge/user/60086e5f-adb2-4a00-ba01-c193121a8406.svg"/></a> 
 <b><i>since 26 Jan, 022</i></b>
@@ -106,8 +94,16 @@
   <a href="https://stackexchange.com/users/18275295/harsh-panchal?tab=accounts"><img src="https://stackexchange.com/users/flair/18275295.png" width="208" height="58" alt="profile for Harsh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Harsh on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </center><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=github_dark&show_icons=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/> <!--(https://git.io/streak-stats)-->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=github_dark&show_icons=true&count_private=true" /> -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=github_dark&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshPanchal18&theme=github_dark&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshPanchal18&theme=github_dark&count_private=true)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=github_dark&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=github_dark&count_private=true) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarshPanchal18&theme=github-dark&border_radius=8&card_width=500&card_height=200&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/> --> <!--(https://git.io/streak-stats)-->
 
 </div>
 
