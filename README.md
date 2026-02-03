@@ -7,7 +7,8 @@
 #
 <!--<h2 align="center">Technology Picks 🧪</h2>-->
 <p style="display: inline-block;" align="center">
-  <kbd>
+
+<!-- <kbd>
     <kbd>🛠️ Development</kbd>
     <br>
     <br>
@@ -67,9 +68,8 @@
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VIM-Light.svg" />
       <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" />
 
-  </kbd>
+  </kbd> -->
 <!--   <br><br> -->
-
   <kbd>
     <kbd>☎️ Socials</kbd>
       <br><br>
@@ -78,11 +78,9 @@
       <a href="https://x.com/twitsofharsh"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" /></a>
       <a href="https://discordapp.com/users/755683604239220747"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" /></a>
       <a href="https://instagram.com/imharsh.18"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" /></a>
-  </kbd>
+  </kbd> 
   
 </p>
-
-#
 
 <div align="center">
 <!--<h2>Perfromance Stats 📈</h2>-->
@@ -99,11 +97,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=github_dark&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshPanchal18&theme=github_dark&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshPanchal18&theme=github_dark&count_private=true)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=github_dark&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=github_dark&count_private=true) -->
+
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=github_dark&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=github_dark&count_private=true)
+-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HarshPanchal18&theme=github-dark&border_radius=8&card_width=500&card_height=200&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/> --> <!--(https://git.io/streak-stats)-->
+<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/> --> <!--(https://git.io/streak-stats)-->
 
 </div>
 
