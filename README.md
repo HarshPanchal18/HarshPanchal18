@@ -79,8 +79,9 @@
       <a href="https://discordapp.com/users/755683604239220747"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" /></a>
       <a href="https://instagram.com/imharsh.18"><img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" /></a>
   </kbd> 
-  
 </p>
+
+#
 
 <div align="center">
 <!--<h2>Perfromance Stats 📈</h2>-->
