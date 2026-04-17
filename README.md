@@ -5,71 +5,26 @@
 [![An image of @harshpanchal18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshpanchal18)](https://holopin.io/@harshpanchal18)
 
 #
-<!--<h2 align="center">Technology Picks 🧪</h2>-->
+
+## Current Projects
+- [**Jumping-Lines**](https://github.com/HarshPanchal18/Jumping-Lines) - Move across lines in any JetBrains IDEs faster than ever
+- [**ArgoCD-Timoni-CMP**](https://github.com/HarshPanchal18/ArgoCD-Timoni-CMP) - An Argo CD CMP plugin to generate YAMLs from a [Timoni](https://timoni.sh) module
+- [**DevOps**](https://github.com/HarshPanchal18/DevOps) - A personal collection of DevOps learnings
+- [**kubectl-walk**](https://github.com/HarshPanchal18/kubectl-walk) - Transform YAMLs/Kubernetes objects in flat lines
+- [**kubectl-dolphin**](https://github.com/HarshPanchal18/kubectl-dolphin) - Delete Kubernetes pods scheduled on a specific node
+- [**kubectl-imageof**](https://github.com/HarshPanchal18/kubectl-imageof) - Get Artifact Image name used for pods
+- [**Tradow**](https://github.com/HarshPanchal18/Tradow) - Put your phone in Vibrate Mode, depending on your presence in elected geofence area
+- [**Quotes125**](https://github.com/HarshPanchal18/Quotes125) - Get random quotes on Android smartphone homescreen widget
+- [**Advanced-QR-Scanner**](https://github.com/HarshPanchal18/Advanced-QR-Scanner) - Scan QR codes with history
+- [**OS-Scripts**](https://github.com/HarshPanchal18/OS-Scripts) - A personal creation/collection of system scripts
+- [**GeoDist**](https://github.com/HarshPanchal18?tab=repositories&q=distance&type=&language=&sort=) - A library to calculate the distance between two geographical points using their latitude and longitude coordinates
+- [**CLI-Minesweeper**](https://github.com/HarshPanchal18/Minesweeper) - Play Minesweeper in CLI
+- [**CLI-Stopwatch**](https://github.com/HarshPanchal18/cli-stopwatch) - CLI native Stopwatch
+- [**Sorting-Methods**](https://github.com/HarshPanchal18/Sorting-Methods) - Collection of 50+ Sorting Algorithms
+
+#
+
 <p style="display: inline-block;" align="center">
-
-<!-- <kbd>
-    <kbd>🛠️ Development</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Gradle-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Ktor-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" />
-  </kbd>
-
-  <kbd>
-    <kbd>🗂️ Database</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Redis-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Supabase-Light.svg" />
-  </kbd>
-  <br><br>
-
-  
-  <kbd>
-    <kbd>🧮 Languages</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GoLang.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" /> 
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bash-Light.svg" /> 
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" /> 
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" />
-    <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" />
-  </kbd>
-  <br><br>
-  <kbd>
-    <kbd>📦 DevOps</kbd>
-    <br><br>
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GitLab-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kubernetes.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Ansible.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Prometheus.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Grafana-Light.svg" />
-  </kbd>
-  <br><br>
-   <kbd>
-    <kbd>✏️ Editors</kbd>
-      <br><br>
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VIM-Light.svg" />
-      <img width="50px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" />
-
-  </kbd> -->
-<!--   <br><br> -->
   <kbd>
     <kbd>☎️ Socials</kbd>
       <br><br>
@@ -93,17 +48,7 @@
   <a href="https://stackexchange.com/users/18275295/harsh-panchal?tab=accounts"><img src="https://stackexchange.com/users/flair/18275295.png" width="208" height="58" alt="profile for Harsh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Harsh on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </center><br/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=HarshPanchal18&theme=github_dark&show_icons=true&count_private=true" /> -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshPanchal18&theme=github_dark&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshPanchal18&theme=github_dark&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshPanchal18&theme=github_dark&count_private=true)
-
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshPanchal18&theme=github_dark&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshPanchal18&theme=github_dark&count_private=true)
--->
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=HarshPanchal18&theme=github-dark&border_radius=8&card_width=500&card_height=200&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
 <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=HarshPanchal18&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/> --> <!--(https://git.io/streak-stats)-->
 
