@@ -20,6 +20,18 @@
 - [**CLI-Stopwatch**](https://github.com/HarshPanchal18/cli-stopwatch) - CLI native Stopwatch
 - [**Sorting-Methods**](https://github.com/HarshPanchal18/Sorting-Methods) - Collection of 50+ Sorting Algorithms
 
+## Contributions
+
+- [**argoproj-labs/terraform-provider-argocd**](https://github.com/argoproj-labs/terraform-provider-argocd/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Added missing parameter for ApplicationSet resource
+- [**permissionlesstech/bitchat-android**](https://github.com/permissionlesstech/bitchat-android/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Designed Issue & PR templates for upcoming bug reports and enhancement
+- [**confluentinc/learn-monitoring-troubleshooting-exercises**](https://github.com/confluentinc/learn-monitoring-troubleshooting-exercises/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Updated the Kafka Mirror Version to the support valid resources
+- [**fakhruddinkamdar/Electronic-E-Commerce**](https://github.com/fakhruddinkamdar/Electronic-E-Commerce/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Containerised the web-application project, made it deployable in Kubernetes
+- [**pixelpark/accessibility-linter**](https://github.com/pixelpark/accessibility-linter/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Made plugin support for upcoming IDE releases
+- [**Sav22999/sav-pdf-viewer-pro**](https://github.com/Sav22999/sav-pdf-viewer-pro/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) | [**utkarsh006/Notes-app-compose**](https://github.com/utkarsh006/Notes-app-compose/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Migrated the build script from Groovy to the Modern Kotlin DSL for long term reliability support
+- [**Harsh-apk/Meals**](https://github.com/Harsh-apk/Meals/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Enhanced various application functionality and refactoring codebase
+- [**KiranShny/QR-BarcodeScanner**](https://github.com/KiranShny/QR-BarcodeScanner/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Fixed `NullPointerException` raised at the time of scanning QR code
+- [**yogendraapawar/Social_Media_App**](https://github.com/yogendraapawar/Social_Media_App/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Asked for file permission before going to pick the image
+
 ## Connect
 
 <p style="display: inline-block;" align="left">
