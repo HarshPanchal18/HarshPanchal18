@@ -5,32 +5,31 @@
 [![An image of @harshpanchal18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshpanchal18)](https://holopin.io/@harshpanchal18)
 
 ## Current Projects
-- [**Jumping-Lines**](https://github.com/HarshPanchal18/Jumping-Lines) - Move across lines in any JetBrains IDEs faster than ever
-- [**ArgoCD-Timoni-CMP**](https://github.com/HarshPanchal18/ArgoCD-Timoni-CMP) - An Argo CD CMP plugin to generate YAMLs from a [Timoni](https://timoni.sh) module
-- [**DevOps**](https://github.com/HarshPanchal18/DevOps) - A personal collection of DevOps learnings
+- [**Jumping-Lines**](https://plugins.jetbrains.com/plugin/22878-jumping-lines) - Jump across N lines in any JetBrains IDEs faster than ever
 - [**kubectl-walk**](https://github.com/HarshPanchal18/kubectl-walk) - Transform YAMLs/Kubernetes objects in flat lines
-- [**kubectl-dolphin**](https://github.com/HarshPanchal18/kubectl-dolphin) - Delete Kubernetes pods scheduled on a specific node
-- [**kubectl-imageof**](https://github.com/HarshPanchal18/kubectl-imageof) - Get Artifact Image name used for pods
+- [**ArgoCD-Timoni-CMP**](https://github.com/HarshPanchal18/ArgoCD-Timoni-CMP) - The ArgoCD CMP plugin to generate YAMLs from a [Timoni](https://timoni.sh) module
+- [**kubectl-dolphin**](https://github.com/HarshPanchal18/kubectl-dolphin) - Delete Kubernetes pods scheduled on a specific node with rich options
+- [**DevOps**](https://github.com/HarshPanchal18/DevOps) - A (growing) personal collection of Cloud & DevOps learnings including documentation
 - [**Tradow**](https://github.com/HarshPanchal18/Tradow) - Put your phone in Vibrate Mode, depending on your presence in elected geofence area
 - [**Quotes125**](https://github.com/HarshPanchal18/Quotes125) - Get random quotes on Android smartphone homescreen widget
-- [**Advanced-QR-Scanner**](https://github.com/HarshPanchal18/Advanced-QR-Scanner) - Scan QR codes with history
-- [**OS-Scripts**](https://github.com/HarshPanchal18/OS-Scripts) - A personal creation/collection of system scripts
+- [**Advanced-QR-Scanner**](https://github.com/HarshPanchal18/Advanced-QR-Scanner) - Scan QR codes with scanning history
+- [**OS-Scripts**](https://github.com/HarshPanchal18/OS-Scripts) - A personal creation/collection of system utility scripts
 - [**GeoDist**](https://github.com/HarshPanchal18?tab=repositories&q=distance&type=&language=&sort=) - A library to calculate the distance between two geographical points using their latitude and longitude coordinates
 - [**CLI-Minesweeper**](https://github.com/HarshPanchal18/Minesweeper) - Play Minesweeper in CLI
 - [**CLI-Stopwatch**](https://github.com/HarshPanchal18/cli-stopwatch) - CLI native Stopwatch
 - [**Sorting-Methods**](https://github.com/HarshPanchal18/Sorting-Methods) - Collection of 50+ Sorting Algorithms
 
-## Contributions
+## Open Source Contributions
 
-- [**argoproj-labs/terraform-provider-argocd**](https://github.com/argoproj-labs/terraform-provider-argocd/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Added missing parameter for ApplicationSet resource
-- [**permissionlesstech/bitchat-android**](https://github.com/permissionlesstech/bitchat-android/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Designed Issue & PR templates for upcoming bug reports and enhancement
-- [**confluentinc/learn-monitoring-troubleshooting-exercises**](https://github.com/confluentinc/learn-monitoring-troubleshooting-exercises/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Updated the Kafka Mirror Version to the support valid resources
-- [**fakhruddinkamdar/Electronic-E-Commerce**](https://github.com/fakhruddinkamdar/Electronic-E-Commerce/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Containerised the web-application project, made it deployable in Kubernetes
-- [**pixelpark/accessibility-linter**](https://github.com/pixelpark/accessibility-linter/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Made plugin support for upcoming IDE releases
+- [**argoproj-labs/terraform-provider-argocd**](https://github.com/argoproj-labs/terraform-provider-argocd/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Added missing parameters to define in Terraform resource for ArgoCD ApplicationSet
+- [**permissionlesstech/bitchat-android**](https://github.com/permissionlesstech/bitchat-android/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Designed Issue & PR templates for bug reports and PR proposals
+- [**confluentinc/learn-monitoring-troubleshooting-exercises**](https://github.com/confluentinc/learn-monitoring-troubleshooting-exercises/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Updated the Kafka Mirror Version to reach the valid backend resource
+- [**pixelpark/accessibility-linter**](https://github.com/pixelpark/accessibility-linter/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Made plugin compatible for upcoming IDE releases
 - [**Sav22999/sav-pdf-viewer-pro**](https://github.com/Sav22999/sav-pdf-viewer-pro/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) | [**utkarsh006/Notes-app-compose**](https://github.com/utkarsh006/Notes-app-compose/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Migrated the build script from Groovy to the Modern Kotlin DSL for long term reliability support
+- [**fakhruddinkamdar/Electronic-E-Commerce**](https://github.com/fakhruddinkamdar/Electronic-E-Commerce/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Containerised the web-application project, made it deployable in Kubernetes
 - [**Harsh-apk/Meals**](https://github.com/Harsh-apk/Meals/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Enhanced various application functionality and refactoring codebase
-- [**KiranShny/QR-BarcodeScanner**](https://github.com/KiranShny/QR-BarcodeScanner/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Fixed `NullPointerException` raised at the time of scanning QR code
-- [**yogendraapawar/Social_Media_App**](https://github.com/yogendraapawar/Social_Media_App/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Asked for file permission before going to pick the image
+- [**KiranShny/QR-BarcodeScanner**](https://github.com/KiranShny/QR-BarcodeScanner/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Fixed `NullPointerException` raised at the time of scanning the QR code
+- [**yogendraapawar/Social_Media_App**](https://github.com/yogendraapawar/Social_Media_App/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3AHarshPanchal18) - Implemented gaurdrail of file permission before picking the image from the device
 
 ## Connect
 
